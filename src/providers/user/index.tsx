@@ -105,7 +105,7 @@ function UserProvider({ children }: any) {
     }
 
     return Alert.alert(
-      'Faça login ou',
+      '',
       'Primeiro inserir o mês e depois o dia na data de nascimento.',
     );
   }
