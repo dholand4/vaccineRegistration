@@ -98,7 +98,7 @@ function UserProvider({ children }: any) {
           if (response2 && response2.status >= 200 && response2.status < 300) {
             setListCitizens(response2.data);
             Alert.alert('', 'Cidadão cadastrado! ');
-            navigation.goBack();
+            return navigation.goBack();
           }
         }
       }
