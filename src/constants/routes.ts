@@ -1,0 +1,7 @@
+export const LOGIN_STACK = 'LOGIN_STACK';
+export const LOGIN_SCREEN = 'LOGIN_SCREEN';
+export const REGISTER_SREEN = 'REGISTER_STACK';
+
+export const HOME_STACK = 'MAIN_STACK';
+export const HOME_SCREEN = ' HOME_SCREEN';
+export const REGISTERCITIZEN_SCREEN = 'REGISTERCITIZEN_SCREEN';
