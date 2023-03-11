@@ -33,7 +33,6 @@ O projeto foi feito utilizando das seguintes tecnologias
 - Styled-Components
 - Typescript
 - Axios
-- Reanimated V2
 
 ---
 
